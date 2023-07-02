@@ -1,0 +1,2 @@
+# forex-trading
+fx ftw
